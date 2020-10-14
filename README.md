@@ -1,1 +1,3 @@
 # MMT
+An implementation for paper "Multimodal Transformer for Multimodal Machine Translation" (accepted at ACL20). 
+Coming soon...
