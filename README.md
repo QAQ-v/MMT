@@ -5,7 +5,7 @@ An implementation for paper "Multimodal Transformer for Multimodal Machine Trans
 ```bash run.sh```
 
 # Pretrained Model and Outputs
-The pre-trained models are released [here](https://drive.google.com/file/d/1eMm3hfBqnbUpPXdSV1MWJWUNy3uCmLIb/view?usp=sharing, https://drive.google.com/file/d/1p-8pNuA7DqCuKVD7Vqu8vX36gnvZFWww/view?usp=sharing). The ADAM_acc_99.72_ppl_1.14_e153.pt.translations-test2016 (BLEU 38.7) and ADAM_acc_87.16_ppl_1.74_e22.pt.translations-test2016 (BLEU 39.5) are the corresponding outputs. 
+The pre-trained models are released [here](https://drive.google.com/file/d/1eMm3hfBqnbUpPXdSV1MWJWUNy3uCmLIb/view?usp=sharing, https://drive.google.com/file/d/1p-8pNuA7DqCuKVD7Vqu8vX36gnvZFWww/view?usp=sharing). The ADAM_acc_99.72_ppl_1.14_e153.pt.translations-test2016 (BLEU 38.7) and ADAM_acc_87.16_ppl_1.74_e22.pt.translations-test2016 (BLEU 39.5) are their corresponding outputs. 
 
 # Citation
 ```
